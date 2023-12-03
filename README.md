@@ -14,4 +14,12 @@ para resolver el problema y la explicacion de los resultados obtenidos.
 
 ### FISICA 1
 
+PROYECTO_FINAL_FISICA.ipynb
+
 Proyecto final de la materia.
+
+Simulacion hecha en python de uno de los laboratorios realizados en la clase, para
+este caso fue tomado el laboratorio de simulacion de tiro parabolico, se hace la
+simulacion para dicho laboratorio, dejando unos paratametros iniciales definidos,
+tales como velocidad inicial y altura inicial, y se van haciendo las simulaciones
+teniendo en cuenta los angulos de tiro ingresador por el usuario.
