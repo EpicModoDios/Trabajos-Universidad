@@ -22,4 +22,4 @@ Simulacion hecha en python de uno de los laboratorios realizados en la clase, pa
 este caso fue tomado el laboratorio de simulacion de tiro parabolico, se hace la
 simulacion para dicho laboratorio, dejando unos paratametros iniciales definidos,
 tales como velocidad inicial y altura inicial, y se van haciendo las simulaciones
-teniendo en cuenta los angulos de tiro ingresador por el usuario.
+teniendo en cuenta los angulos de tiro ingresados por el usuario.
