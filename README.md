@@ -1,4 +1,4 @@
-# TOUR-COLOMBIANO
+# Trabajos realizados en la Universidad
 Trabajo final de la materia de Matematicas Discretas.
 
 Notebook de Google Colab: En el notebook se debe explicar el problema que se esta
