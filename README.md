@@ -3,6 +3,7 @@
 
 ### Matematicas Discretas
 
+TOUR_COLOMBIANO_Proyecto_De_Matematicas_Discreta.ipynb
 Trabajo final de la materia.
 
 Notebook de Google Colab: En el notebook se debe explicar el problema que se esta
